@@ -1,7 +1,7 @@
 # colorblindness-processing
 This is a library to simulate and correct images for Processing Org
 
-You can find the full source for the library [here](http://www.google.com)
+You can find the full source for the library [here](https://github.com/tsarjak/color-blindness-imageprocessing)!
 
 
 ## Importing the library
